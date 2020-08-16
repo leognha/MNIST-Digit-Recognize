@@ -3,3 +3,4 @@
 
 Dataset from https://www.kaggle.com/c/digit-recognizer/overview
 
+修改LeNet的架構做測試
